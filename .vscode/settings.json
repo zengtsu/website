@@ -1,0 +1,4 @@
+{
+    "django.snippets.use": false,
+    "django.i18n": false
+}
